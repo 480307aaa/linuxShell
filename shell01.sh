@@ -1,10 +1,10 @@
 #!/bin/bash
 
-#expr ���
+#expr 计算工具
 val=`expr 2 + 2`
 echo "Total value : $val"
 
-#�����
+#算术运算符
 a=10
 b=20
 val=`expr $a + $b`
@@ -28,7 +28,7 @@ fi
 
 
 
-#�����
+#关系运算符
 
 
 if [ $a -eq $b ]
