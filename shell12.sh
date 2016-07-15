@@ -1,6 +1,6 @@
 #!/bin/bash
 #break和continue的用法
-#break:
+#break的用法:
 while :
 do
      echo "Input a number between 1 to 5"
