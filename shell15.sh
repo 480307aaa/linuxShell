@@ -41,6 +41,7 @@ filename=text.txt
 vi $filename << EndOfCommand
 i
 This file was created automatically from a shell script
+#这个符号用：ctrl+v+esc,不要用shift+6+[
 
 ZZ
 EndOfCommand
